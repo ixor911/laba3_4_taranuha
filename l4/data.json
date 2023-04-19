@@ -1,0 +1,13 @@
+{
+  "lessons": [
+    {"lesson": "math", "teacher": "t1"},
+    {"lesson": "history", "teacher": "t2"},
+    {"lesson": "science", "teacher": "t3"},
+    {"lesson": "english", "teacher": "t4"},
+    {"lesson": "art", "teacher": "t5"},
+    {"lesson": "music", "teacher": "t6"},
+    {"lesson": "physics", "teacher": "t7"},
+    {"lesson": "chemistry", "teacher": "t8"}
+  ],
+  "days": [1, 2, 3, 4, 5]
+}
